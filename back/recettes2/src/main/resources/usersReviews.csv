@@ -1,0 +1,5 @@
+id,rating,comment,user_id,recipe_id
+1,5,Superbe recette !,1,2
+2,4,Trop épicé à mon goût,2,1
+3,3,Un peu fade,3,3
+4,5,Délicieux,1,3

@@ -1,0 +1,4 @@
+name,description,ingredients,preparation_time,cooking_time,country_id
+Couscous,Plat traditionnel du Maghreb à base de semoule et légumes,"semoule;légumes;viande;pois chiches",30,60,1
+Ratatouille,Recette française à base de légumes méditerranéens,"courgettes;aubergines;poivrons;tomates",20,45,2
+Pasta Carbonara,Recette italienne avec des pâtes,oeufs;lardons;parmesan;poivre,15,10,3
