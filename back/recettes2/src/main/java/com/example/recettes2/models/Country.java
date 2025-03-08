@@ -1,6 +1,8 @@
 package com.example.recettes2.models;
 
-import jakarta.persistence.*;
+import org.springframework.data.annotation.Id;
+
+import javax.persistence.*;
 import java.util.List;
 
 @Entity

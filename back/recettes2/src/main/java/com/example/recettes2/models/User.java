@@ -1,6 +1,7 @@
 package com.example.recettes2.models;
 
-import jakarta.persistence.*;
+
+import javax.persistence.*;
 import java.util.List;
 
 @Entity
